@@ -10,7 +10,7 @@ This project is a simple implementation of the popular word-guessing game, Wordl
   <img src="img/wordle.png" alt="Wordle Screenshot" width="100%">
 </p>
 
-**Live Wordle Game: [https://the-wordle-game.vercel.app/](https://the-wordle-game.vercel.app/). Feel free to give it a try!**
+**Live Wordle Game: [https://the-worde-game.vercel.app/](https://the-worde-game.vercel.app/). Feel free to give it a try!**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
